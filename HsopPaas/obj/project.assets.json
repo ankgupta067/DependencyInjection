@@ -186,11 +186,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\310182638\\source\\repos\\DependencyInjection\\HsopPaas\\HsopPaas.csproj",
+      "projectUniqueName": "C:\\Code\\gittest\\DependencyInjection\\HsopPaas\\HsopPaas.csproj",
       "projectName": "HsopPaas",
-      "projectPath": "C:\\Users\\310182638\\source\\repos\\DependencyInjection\\HsopPaas\\HsopPaas.csproj",
+      "projectPath": "C:\\Code\\gittest\\DependencyInjection\\HsopPaas\\HsopPaas.csproj",
       "packagesPath": "C:\\Users\\310182638\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\310182638\\source\\repos\\DependencyInjection\\HsopPaas\\obj\\",
+      "outputPath": "C:\\Code\\gittest\\DependencyInjection\\HsopPaas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -203,6 +203,7 @@
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Code\\WorkingTrunk2\\Common\\Source\\FhirNetCore\\bin\\Release\\PublishOutput": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },

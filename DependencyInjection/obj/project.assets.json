@@ -4035,11 +4035,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\310182638\\source\\repos\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj",
+      "projectUniqueName": "C:\\Code\\gittest\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj",
       "projectName": "DependencyInjection",
-      "projectPath": "C:\\Users\\310182638\\source\\repos\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj",
+      "projectPath": "C:\\Code\\gittest\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj",
       "packagesPath": "C:\\Users\\310182638\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\310182638\\source\\repos\\DependencyInjection\\DependencyInjection\\obj\\",
+      "outputPath": "C:\\Code\\gittest\\DependencyInjection\\DependencyInjection\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4052,6 +4052,7 @@
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Code\\WorkingTrunk2\\Common\\Source\\FhirNetCore\\bin\\Release\\PublishOutput": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },

@@ -107,3 +107,11 @@ c:\users\310182638\source\repos\DependencyInjection\DependencyInjectionInNet\obj
 c:\users\310182638\source\repos\DependencyInjection\Output\DependencyInjectionInNet.exe.config
 c:\users\310182638\source\repos\DependencyInjection\Output\DependencyInjectionInNet.exe
 c:\users\310182638\source\repos\DependencyInjection\Output\DependencyInjectionInNet.pdb
+C:\Code\gittest\DependencyInjection\Output\DependencyInjectionInNet.exe.config
+C:\Code\gittest\DependencyInjection\Output\DependencyInjectionInNet.exe
+C:\Code\gittest\DependencyInjection\Output\DependencyInjectionInNet.pdb
+C:\Code\gittest\DependencyInjection\DependencyInjectionInNet\obj\Debug\DependencyInjectionInNet.csprojResolveAssemblyReference.cache
+C:\Code\gittest\DependencyInjection\DependencyInjectionInNet\obj\Debug\DependencyInjectionInNet.csproj.DependencyInjectionInNet.exe.config
+C:\Code\gittest\DependencyInjection\DependencyInjectionInNet\obj\Debug\DependencyInjectionInNet.csproj.CoreCompileInputs.cache
+C:\Code\gittest\DependencyInjection\DependencyInjectionInNet\obj\Debug\DependencyInjectionInNet.exe
+C:\Code\gittest\DependencyInjection\DependencyInjectionInNet\obj\Debug\DependencyInjectionInNet.pdb

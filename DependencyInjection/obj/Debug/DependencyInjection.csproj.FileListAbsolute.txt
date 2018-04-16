@@ -10,3 +10,15 @@ c:\users\310182638\source\repos\DependencyInjection\DependencyInjection\obj\Debu
 c:\users\310182638\source\repos\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.dll
 c:\users\310182638\source\repos\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.pdb
 C:\Users\310182638\source\repos\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.csprojResolveAssemblyReference.cache
+C:\Code\gittest\DependencyInjection\Output\appsettings.json
+C:\Code\gittest\DependencyInjection\Output\DependencyInjection.deps.json
+C:\Code\gittest\DependencyInjection\Output\DependencyInjection.runtimeconfig.json
+C:\Code\gittest\DependencyInjection\Output\DependencyInjection.runtimeconfig.dev.json
+C:\Code\gittest\DependencyInjection\Output\DependencyInjection.dll
+C:\Code\gittest\DependencyInjection\Output\DependencyInjection.pdb
+C:\Code\gittest\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.csprojResolveAssemblyReference.cache
+C:\Code\gittest\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Code\gittest\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.AssemblyInfoInputs.cache
+C:\Code\gittest\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.AssemblyInfo.cs
+C:\Code\gittest\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.dll
+C:\Code\gittest\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.pdb

@@ -7,3 +7,12 @@ c:\users\310182638\source\repos\DependencyInjection\HsopPaas\obj\Debug\HsopPaas.
 c:\users\310182638\source\repos\DependencyInjection\HsopPaas\obj\Debug\HsopPaas.AssemblyInfo.cs
 c:\users\310182638\source\repos\DependencyInjection\HsopPaas\obj\Debug\HsopPaas.dll
 c:\users\310182638\source\repos\DependencyInjection\HsopPaas\obj\Debug\HsopPaas.pdb
+C:\Code\gittest\DependencyInjection\Output\HsopPaas.deps.json
+C:\Code\gittest\DependencyInjection\Output\HsopPaas.dll
+C:\Code\gittest\DependencyInjection\Output\HsopPaas.pdb
+C:\Code\gittest\DependencyInjection\HsopPaas\obj\Debug\HsopPaas.csprojResolveAssemblyReference.cache
+C:\Code\gittest\DependencyInjection\HsopPaas\obj\Debug\HsopPaas.csproj.CoreCompileInputs.cache
+C:\Code\gittest\DependencyInjection\HsopPaas\obj\Debug\HsopPaas.AssemblyInfoInputs.cache
+C:\Code\gittest\DependencyInjection\HsopPaas\obj\Debug\HsopPaas.AssemblyInfo.cs
+C:\Code\gittest\DependencyInjection\HsopPaas\obj\Debug\HsopPaas.dll
+C:\Code\gittest\DependencyInjection\HsopPaas\obj\Debug\HsopPaas.pdb

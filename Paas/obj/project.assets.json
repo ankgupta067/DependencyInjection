@@ -186,11 +186,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\310182638\\source\\repos\\DependencyInjection\\Paas\\Paas.csproj",
+      "projectUniqueName": "C:\\Code\\gittest\\DependencyInjection\\Paas\\Paas.csproj",
       "projectName": "Paas",
-      "projectPath": "C:\\Users\\310182638\\source\\repos\\DependencyInjection\\Paas\\Paas.csproj",
+      "projectPath": "C:\\Code\\gittest\\DependencyInjection\\Paas\\Paas.csproj",
       "packagesPath": "C:\\Users\\310182638\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\310182638\\source\\repos\\DependencyInjection\\Paas\\obj\\",
+      "outputPath": "C:\\Code\\gittest\\DependencyInjection\\Paas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -203,6 +203,7 @@
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Code\\WorkingTrunk2\\Common\\Source\\FhirNetCore\\bin\\Release\\PublishOutput": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },

@@ -19,7 +19,7 @@
   <ItemGroup>
     <Reference Include="Paas">
       <HintPath>..\Output\Paas.dll</HintPath>
-      <Private>true</Private>
+      <Private>false</Private>
       <SpecificVersion>False</SpecificVersion>
     </Reference>
   </ItemGroup>
