@@ -1,15 +1,3 @@
-C:\Users\310182638\source\repos\DependencyInjection\Output\appsettings.json
-C:\Users\310182638\source\repos\DependencyInjection\Output\DependencyInjection.deps.json
-C:\Users\310182638\source\repos\DependencyInjection\Output\DependencyInjection.runtimeconfig.json
-C:\Users\310182638\source\repos\DependencyInjection\Output\DependencyInjection.runtimeconfig.dev.json
-C:\Users\310182638\source\repos\DependencyInjection\Output\DependencyInjection.dll
-C:\Users\310182638\source\repos\DependencyInjection\Output\DependencyInjection.pdb
-c:\users\310182638\source\repos\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.csproj.CoreCompileInputs.cache
-c:\users\310182638\source\repos\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.AssemblyInfoInputs.cache
-c:\users\310182638\source\repos\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.AssemblyInfo.cs
-c:\users\310182638\source\repos\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.dll
-c:\users\310182638\source\repos\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.pdb
-C:\Users\310182638\source\repos\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.csprojResolveAssemblyReference.cache
 C:\Code\gittest\DependencyInjection\Output\appsettings.json
 C:\Code\gittest\DependencyInjection\Output\DependencyInjection.deps.json
 C:\Code\gittest\DependencyInjection\Output\DependencyInjection.runtimeconfig.json

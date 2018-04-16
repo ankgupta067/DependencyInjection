@@ -10,7 +10,6 @@ C:\Users\310182638\source\repos\DependencyInjection\Paas\obj\Debug\Paas.csprojRe
 C:\Code\gittest\DependencyInjection\Output\Paas.deps.json
 C:\Code\gittest\DependencyInjection\Output\Paas.dll
 C:\Code\gittest\DependencyInjection\Output\Paas.pdb
-C:\Code\gittest\DependencyInjection\Paas\obj\Debug\Paas.csprojResolveAssemblyReference.cache
 C:\Code\gittest\DependencyInjection\Paas\obj\Debug\Paas.csproj.CoreCompileInputs.cache
 C:\Code\gittest\DependencyInjection\Paas\obj\Debug\Paas.AssemblyInfoInputs.cache
 C:\Code\gittest\DependencyInjection\Paas\obj\Debug\Paas.AssemblyInfo.cs

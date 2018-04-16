@@ -2,12 +2,8 @@
 
 namespace Paas
 {
-    public interface ILogger
-    {
-        void LogMessage();
-    }
-
-    public class Logger : ILogger
+   
+    public class Logger 
     {
         public void LogMessage()
         {
