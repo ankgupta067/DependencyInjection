@@ -20,7 +20,7 @@ namespace DependencyInjection
             //var type = Type.GetType(configuration["PaasLogger"]);
             var logger = new Logger();
             logger.LogMessage();
-            Console.ReadLine();
+            Console.Read();
         }
     }
 }
