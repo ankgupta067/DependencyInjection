@@ -1,0 +1,9 @@
+C:\Users\310182638\source\repos\DependencyInjection\Output\HsopPaas.deps.json
+C:\Users\310182638\source\repos\DependencyInjection\Output\HsopPaas.dll
+C:\Users\310182638\source\repos\DependencyInjection\Output\HsopPaas.pdb
+c:\users\310182638\source\repos\DependencyInjection\HsopPaas\obj\Debug\HsopPaas.csprojResolveAssemblyReference.cache
+c:\users\310182638\source\repos\DependencyInjection\HsopPaas\obj\Debug\HsopPaas.csproj.CoreCompileInputs.cache
+c:\users\310182638\source\repos\DependencyInjection\HsopPaas\obj\Debug\HsopPaas.AssemblyInfoInputs.cache
+c:\users\310182638\source\repos\DependencyInjection\HsopPaas\obj\Debug\HsopPaas.AssemblyInfo.cs
+c:\users\310182638\source\repos\DependencyInjection\HsopPaas\obj\Debug\HsopPaas.dll
+c:\users\310182638\source\repos\DependencyInjection\HsopPaas\obj\Debug\HsopPaas.pdb

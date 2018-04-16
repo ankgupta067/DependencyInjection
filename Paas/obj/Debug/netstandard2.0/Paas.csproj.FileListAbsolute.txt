@@ -1,0 +1,12 @@
+c:\users\310182638\source\repos\DependencyInjection\Paas\bin\Debug\netstandard2.0\Paas.deps.json
+c:\users\310182638\source\repos\DependencyInjection\Paas\bin\Debug\netstandard2.0\Paas.dll
+c:\users\310182638\source\repos\DependencyInjection\Paas\bin\Debug\netstandard2.0\Paas.pdb
+c:\users\310182638\source\repos\DependencyInjection\Paas\obj\Debug\netstandard2.0\Paas.csprojResolveAssemblyReference.cache
+c:\users\310182638\source\repos\DependencyInjection\Paas\obj\Debug\netstandard2.0\Paas.csproj.CoreCompileInputs.cache
+c:\users\310182638\source\repos\DependencyInjection\Paas\obj\Debug\netstandard2.0\Paas.AssemblyInfoInputs.cache
+c:\users\310182638\source\repos\DependencyInjection\Paas\obj\Debug\netstandard2.0\Paas.AssemblyInfo.cs
+c:\users\310182638\source\repos\DependencyInjection\Paas\obj\Debug\netstandard2.0\Paas.dll
+c:\users\310182638\source\repos\DependencyInjection\Paas\obj\Debug\netstandard2.0\Paas.pdb
+C:\Users\310182638\source\repos\DependencyInjection\Output\netstandard2.0\Paas.deps.json
+C:\Users\310182638\source\repos\DependencyInjection\Output\netstandard2.0\Paas.dll
+C:\Users\310182638\source\repos\DependencyInjection\Output\netstandard2.0\Paas.pdb

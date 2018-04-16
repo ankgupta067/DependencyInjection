@@ -1,0 +1,8 @@
+c:\users\310182638\source\repos\DependencyInjection\Paas\bin\Debug\netcoreapp2.0\Paas.deps.json
+c:\users\310182638\source\repos\DependencyInjection\Paas\bin\Debug\netcoreapp2.0\Paas.dll
+c:\users\310182638\source\repos\DependencyInjection\Paas\bin\Debug\netcoreapp2.0\Paas.pdb
+c:\users\310182638\source\repos\DependencyInjection\Paas\obj\Debug\netcoreapp2.0\Paas.csproj.CoreCompileInputs.cache
+c:\users\310182638\source\repos\DependencyInjection\Paas\obj\Debug\netcoreapp2.0\Paas.AssemblyInfoInputs.cache
+c:\users\310182638\source\repos\DependencyInjection\Paas\obj\Debug\netcoreapp2.0\Paas.AssemblyInfo.cs
+c:\users\310182638\source\repos\DependencyInjection\Paas\obj\Debug\netcoreapp2.0\Paas.dll
+c:\users\310182638\source\repos\DependencyInjection\Paas\obj\Debug\netcoreapp2.0\Paas.pdb
